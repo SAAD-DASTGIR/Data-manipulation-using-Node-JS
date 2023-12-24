@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  },
+  "name": "intro_node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "nodemon": "^3.0.1"
+  },
+  "bin": {
+    "note": "./index.js"
+  },
+  "scripts": {
+    "test": "jest",
+    "saad":"nodemon"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
